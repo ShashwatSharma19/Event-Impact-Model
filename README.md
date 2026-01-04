@@ -5,8 +5,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
 
-![Dashboard Hero Screenshot]([images/Event-Impact model dshb.png](https://github.com/ShashwatSharma19/Event-Impact-Model/blob/f7a17b7f35abda2e38c1f669788b5c8b56994f9a/Event-Impact%20model%20dshb.png))
-
+![Dashboard Hero Screenshot](https://github.com/ShashwatSharma19/Event-Impact-Model/blob/0662055a297ccd18580fa760b593253562ecd566/Event-Impact%20model%20dshb.png)
 ## 🚀 Introduction
 
 The **Event Impact Model** is a data-driven tool designed to measure and compare **market reactions** to scheduled macroeconomic events, such as
@@ -94,13 +93,13 @@ These events are scheduled in advance, making them ideal for **event studies** (
 ## 🎥 Screenshots
 
 ### Dashboard Overview
-![Main Dashboard]([images/dashboard-overview.png](https://github.com/ShashwatSharma19/Event-Impact-Model/blob/f7a17b7f35abda2e38c1f669788b5c8b56994f9a/Event-Impact%20model%20dshb.png))
+![Main Dashboard](https://github.com/ShashwatSharma19/Event-Impact-Model/blob/0662055a297ccd18580fa760b593253562ecd566/Event-Impact%20model%20dshb.png)
 
 ### Speed of Information Pricing Chart
-![Speed Chart]([images/speed-chart.png](https://github.com/ShashwatSharma19/Event-Impact-Model/blob/f7a17b7f35abda2e38c1f669788b5c8b56994f9a/Event-Impact%20model%20dshb-2.png))
+![Speed Chart](https://github.com/ShashwatSharma19/Event-Impact-Model/blob/0662055a297ccd18580fa760b593253562ecd566/Event-Impact%20model%20dshb-2.png)
 
 ### Detailed event Metrics
-![Detailed event Metrics]([images/average-path.png](https://github.com/ShashwatSharma19/Event-Impact-Model/blob/f7a17b7f35abda2e38c1f669788b5c8b56994f9a/Event-Impact%20model%20dshb-3.png))
+![Detailed event Metrics](https://github.com/ShashwatSharma19/Event-Impact-Model/blob/0662055a297ccd18580fa760b593253562ecd566/Event-Impact%20model%20dshb-3.png)
 
 ## 🛠️ Quick Start
 
